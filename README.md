@@ -15,8 +15,8 @@ Those documents are based on the standards given by Game_Design_Sheet.
 - [ ] Give Game Story Detail(In Progress)
 	- [x] Divide Chapters (Pending for evaluation)
 	- [ ] Chapter Story Detail
-	- [ ] First Draft Revision
-	- [ ] Edit First Draft
+	- [x] First Draft Revision
+	- [x] Edit First Draft
 	- [ ] Final Draft Revision
 - [ ] Game Interaction Draft
 - [ ] Implemention Part
