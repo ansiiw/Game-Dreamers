@@ -27,4 +27,4 @@ Those documents are based on the standards given by Game_Design_Sheet.
 - Game Design
     - [Game Design Story Outline](Design/Game-Dreamers-Story-Design-Outline)
     - [Playmode and notion desing](Design/GameDesignAndNotion)
-    - [Story Version 1.2](Design/Story version 1.2)
+    - [Story Version 1.2](Design/Story-version-1.2)
