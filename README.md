@@ -25,5 +25,5 @@ Those documents are based on the standards given by Game_Design_Sheet.
 ---
 ## Project Overview
 - Game Design
-    - [Game Design Story Outline](/Game-Dreamers-Story-Design-Outline)
-    - [Playmode and notion desing](/GameDesignAndNotion)
+    - [Game Design Story Outline](Game-Dreamers/Design/Game-Dreamers-Story-Design-Outline)
+    - [Playmode and notion desing](Design/GameDesignAndNotion)
