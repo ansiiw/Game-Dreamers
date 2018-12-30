@@ -1,0 +1,52 @@
+  - 游戏模式
+    1. 第三人称电脑端游戏
+    2. 2D
+    3. 偏向解密收集类游戏
+    4. 交互式设计。非简单控制角色，希望游戏角色影响玩家在现实世界内的行为。
+    
+  - 开发工具
+    1. 使用C语言，Unity环境开发
+  
+  - 开发人员
+    1. Ingrid Wu: 参与编程，故事编写，音乐
+    2. David Cao: 参与编程，故事编写
+    3. Olivia Wu: 音乐
+    
+    特别感激：Artemis Li 参与故事线1.0，1.1，1.2编写，未来美工计划
+            Lillian Li 参与美工计划
+    
+  - 游戏目的：
+      在中国快餐式的游戏环境里，卡牌类收集游戏以及对战游戏充斥了市场，为游戏公司带来了巨大利润。我们想通过Dreamers这个游戏，安静地讲一个故事，与玩家分享我们的理念以及对游戏的热爱。同时，改变社会对游戏的刻板印象：廉价的娱乐产品。我们想证明，游戏是艺术。
+      所有的美术设计都由我们的美工人员完成。
+      所有背景音乐也都由我们自己编写。
+      通过这些我们独立设计的元素以及交互式的游戏模式，我们希望能让玩家更深入地体验游戏，体验故事。
+      Dreamer尝试去讲一个讨论梦想与现实的距离的故事。
+      我们尝试去传达一个理念：成长的意义是学会放弃。梦想与现实的距离就由这门学会成长的课来衡量。
+            
+            
+            
+  - Playmode
+    1. The third person game on pc and laptop device. 
+    2. 2D game
+    3. Intends to be a puzzle and collection game. 
+    4. Interactive playmode. Instead of simply controlling game character, we intend to make the characters in the game influence players action.
+    
+  - Develop tools
+    1. Based on C#, using unity
+    
+  - Developers
+    Ingrid Wu: programmer, story compile, music compose
+    David Cao: programmer, story compiler
+    Olivia Wu: music compose
+    
+    Special thanks to: Artemis Li: participated in writing version 1.0, 1.1, 1.2 story; art designer in future. 
+                       Lillian Li: art designer in future. 
+                       
+  - General intentions and goals:
+      In China's game environment, filled with fighting games and card-collecting game which could bring huge profit to game companies, we want to tell a story through this narrative game to share our notions and love for games, trying to change social impression of games which regards games as the cheap entertainment. We want to show that game is a form of art. 
+      The images will be all drawn by our art designers. 
+      Background music will be all composed by ourselves. 
+      Through all these self designed and developed components and the interactive play mode, we intend to make players feel more participated in the story.
+      The story told in the game tries to discuss the distance between dream and reality. 
+      We try to share the notion that: learning to give up is the meaning of growing up. Distance between dream and reality is the class of growing up. 
+    
