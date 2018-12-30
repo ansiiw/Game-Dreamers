@@ -25,4 +25,4 @@ Those documents are based on the standards given by Game_Design_Sheet.
 ---
 ## Project Overview
 - Game Design
-    - [Game Design Story Outline](/Design/DreamersGameDesignOutline.md)
+    - [Game Design Story Outline](/Game-Dreamers-Story-Design-Outline)
